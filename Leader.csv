@@ -1,21 +1,21 @@
-Name, Country, Age, Incumbent_year, Avg_rating, Overall_Rating
-Angela Merkel, Germany, 68, 2021, 87.5, 92.5
-Emmanuel Macron, France, 44, 2022, 83.7, 88.7
-Boris Johnson, UK, 57, 2023, 81.9, 86.9
-Justin Trudeau, Canada, 50, 2021, 84.2, 89.2
-Xi Jinping, China, 68, 2022, 86.4, 91.4
-Shinzo Abe, Japan, 67, 2020, 82.8, 87.8
-Vladimir Putin, Russia, 69, 2024, 80.6, 85.6
-Joe Biden, USA, 81, 2021, 83.9, 88.9
-Narendra Modi, India, 71, 2023, 80.2, 85.2
-Jacinda Ardern, New Zealand, 41, 2024, 86.8, 91.8
-Moon Jae-in, South Korea, 69, 2022, 84.7, 89.7
-Recep Tayyip Erdoğan, Turkey, 67, 2023, 78.4, 83.4
-Andrés Manuel López Obrador, Mexico, 67, 2024, 82.3, 87.3
-Jair Bolsonaro, Brazil, 66, 2022, 77.5, 82.5
-
-
-
-
-
-
+Name,Country,Year,Average Score,Total Overall Rating
+Angela Merkel,Germany,2021,87.5,92.5
+Emmanuel Macron,France,2022,83.7,88.7
+Boris Johnson,UK,2023,81.9,86.9
+Justin Trudeau,Canada,2021,84.2,89.2
+Xi Jinping,China,2022,86.4,91.4
+Shinzo Abe,Japan,2020,82.8,87.8
+Vladimir Putin,Russia,2024,80.6,85.6
+Joe Biden,USA,2021,83.9,88.9
+Narendra Modi,India,2023,80.2,5.2
+Jacinda Ardern,New Zealand,2024,86.8,91.8
+Moon Jae-in,South Korea,2022,84.7,89.7
+Recep Tayyip Erdoğan,Turkey,2023,78.4,83.4
+Andrés Manuel Obrador,Mexico,2024,82.3,87.3
+Jair Bolsonaro,Brazil,2022,77.5,82.5
+Nicolás Maduro,Venezuela,2023,73.6,78.6
+Scott Morrison,Australia,2021,79.8,84.8
+Volodymyr Zelensky,Ukraine,2022,75.1,80.1
+Khalifa bin Zayed Al Nahyan,UAE,2024,74.3,79.3
+Andrzej Duda,Poland,2023,76.9,81.9
+Erna Solberg,Norway,2022,78.3,83.3
