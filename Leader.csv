@@ -1,25 +1,21 @@
-"Name, Country, Age, Incumbent_year, Overall_Rating"
-"Angela Merkel, Germany, 68, 2021, 92.5"
-"Emmanuel Macron, France, 44, 2022, 88.7"
-"Boris Johnson, UK, 57, 2023, 86.9"
-"Justin Trudeau, Canada, 50, 2021, 89.2"
-"Xi Jinping, China, 68, 2022, 91.4"
-"Shinzo Abe, Japan, 67, 2020, 87.8"
-"Vladimir Putin, Russia, 69, 2024, 85.6"
-"Joe Biden, USA, 81, 2021, 88.9"
-"Narendra Modi, India, 71, 2023, 85.2"
-"Jacinda Ardern, New Zealand, 41, 2024, 91.8"
-"Moon Jae-in, South Korea, 69, 2022, 89.7"
-"Recep Tayyip Erdoan, Turkey, 67, 2023, 83.4"
-"Andres Manuel Lopez Obrador, Mexico, 67, 2024, 87.3"
-"Jair Bolsonaro, Brazil, 66, 2022, 82.5"
-"Scott Morrison, Australia, 54, 2020, 88.1"
-"Benjamin Netanyahu, Israel, 72, 2021, 84.6"
-"Abiy Ahmed, Ethiopia, 45, 2023, 86.3"
-"Angus Robertson, Scotland, 52, 2021, 90.5"
-"Matteo Salvini, Italy, 48, 2024, 84.9"
-"Pedro Sanchez, Spain, 50, 2023, 87.6"
-"Andrzej Duda, Poland, 49, 2020, 83.8"
-"Imran Khan, Pakistan, 69, 2022, 85.9"
-"Erna Solberg, Norway, 60, 2021, 91.2"
-"Giuseppe Conte, Italy, 57, 2020, 86.7"
+Name, Country, Age, Incumbent_year, Avg_rating, Overall_Rating
+Angela Merkel, Germany, 68, 2021, 87.5, 92.5
+Emmanuel Macron, France, 44, 2022, 83.7, 88.7
+Boris Johnson, UK, 57, 2023, 81.9, 86.9
+Justin Trudeau, Canada, 50, 2021, 84.2, 89.2
+Xi Jinping, China, 68, 2022, 86.4, 91.4
+Shinzo Abe, Japan, 67, 2020, 82.8, 87.8
+Vladimir Putin, Russia, 69, 2024, 80.6, 85.6
+Joe Biden, USA, 81, 2021, 83.9, 88.9
+Narendra Modi, India, 71, 2023, 80.2, 85.2
+Jacinda Ardern, New Zealand, 41, 2024, 86.8, 91.8
+Moon Jae-in, South Korea, 69, 2022, 84.7, 89.7
+Recep Tayyip Erdoğan, Turkey, 67, 2023, 78.4, 83.4
+Andrés Manuel López Obrador, Mexico, 67, 2024, 82.3, 87.3
+Jair Bolsonaro, Brazil, 66, 2022, 77.5, 82.5
+
+
+
+
+
+
